@@ -1,8 +1,25 @@
 .header{
     background-color: aquamarine;
+    color: blueviolet;
     text-align: center;
     padding: 30px;
     width: 100%;
+}
+socialmedia > a{
+    padding: 0 30px;
+}
+.socialmedia > a > span{
+    height: 60px;
+    width: 60px;
+    line-height: 20px;
+    font-size: 15px;
+    border-radius: 6px;
+    transition: 0.3s all;
+    opacity:0.9;
+    color:black;
+}
+.socialmedia > a > span:hover{
+    background-color: cadetblue;
 }
 .column{
     width: 400px;
@@ -27,11 +44,12 @@
     padding: 8px;
     margin: 20px;
     background-color: cornsilk;
+    font-family: sans-serif;
 }
 #two{
-    border: 2px solid cyan;
+    border: 2px solid rebeccapurple;
     padding: 8px;
     margin: 20px;
     background-color: darkcyan;
-
+    color:black;
 }
