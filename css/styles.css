@@ -13,9 +13,18 @@
     float: right;
     background-color: burlywood;
     height: 500px;
-    padding:;
 }
 #center{
     background-color: cornflowerblue;
-    padding: 1%;
+    padding: 0.7%;
+}
+.container{
+    width: 600px;
+    float:left;
+}
+#one{
+    border: 2px solid blueviolet;
+    padding: 8px;
+    margin: 20px;
+    background-color: cornsilk;
 }
