@@ -8,3 +8,14 @@
     width: 400px;
     float: left;
 }
+.sidebar{
+    width: 35%;
+    float: right;
+    background-color: burlywood;
+    height: 500px;
+    padding:;
+}
+#center{
+    background-color: cornflowerblue;
+    padding: 1%;
+}
