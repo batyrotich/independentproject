@@ -4,4 +4,4 @@
 ### To run the project you will need: a working pc/laptop, internet, installed Visualstudio code, Chrome browser and Github.
 ### Link to the published site:
 [independentproject](https://batyrotich.github.io/independentproject/)
-### LICENSE [MIT](https://github.com/batyrotich/independentproject/community/license/new?branch=master&template=mit)
+### LICENSE [MIT](https://github.com/batyrotich/independentproject/blob/master/LICENSE)
